@@ -3,9 +3,10 @@
 This is a simple yet engaging two-player dice game developed using JavaScript, HTML, and CSS. Players take turns rolling a dice to accumulate points, with the goal of reaching 100 points before their opponent. The game provides an interactive experience with a clean and intuitive user interface.
 
 <br>
+
   <p align="center">
     <a>
-      <img src='https://github.com/user-attachments/assets/cc5035af-7ef4-4158-8a7e-813e55a3f1bd' width=500>
+      <img src='https://github.com/user-attachments/assets/c3c8f863-81bf-4851-898c-987f2152f79f' width=500>
     </a>
   </p>
 
